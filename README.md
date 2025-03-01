@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Jiyoon Jung 👋
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y11n&layout=compact)
 
 <!--
